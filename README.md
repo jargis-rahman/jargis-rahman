@@ -1,22 +1,45 @@
-<div align="center">
+<img src="/resources/Github%20Banner-01.png" alt="Jargis Rahman Banner" width="100%" />
 
-![Banner](/resources/Github%20Banner-01.png)[cite: 1]
+<br/><br/>
 
-### 💫 About Me
-I am currently working & learning HTML, CSS, JavaScript, TypeScript, React, Tailwind, Next JS, Node JS[cite: 1].
+<h2>𝗝𝗔𝗥𝗚𝗜𝗦 𝗥𝗔𝗛𝗠𝗔𝗡</h2>
+<h4>𝗪𝗘𝗕 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥</h4>
 
-### 💻 Tech Stack
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)[cite: 1] ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)[cite: 1] ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)[cite: 1] ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)[cite: 1] ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)[cite: 1] ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)[cite: 1] ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)[cite: 1]
+<p>
+  Rajshahi, Bangladesh &nbsp; | &nbsp; <a href="mailto:freelancerjargis@gmail.com">freelancerjargis@gmail.com</a>
+</p>
 
-### 📊 GitHub Stats
-![](https://github-readme-stats.shion.dev/api?username=jargis-rahman&theme=dark&hide_border=false&include_all_commits=false&count_private=false)[cite: 1]
-![](https://streak-stats.demolab.com/?user=jargis-rahman&theme=dark&hide_border=false)[cite: 1]
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=jargis-rahman&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)[cite: 1]
+<p>
+  <a href="https://linkedin.com/in/jargis-rahman"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://facebook.com/mdjargisrahman"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://behance.net/freelancerjargis"><img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" /></a>
+</p>
 
-### 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jargis-rahman)[cite: 1] [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/freelancerjargis)[cite: 1] [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mdjargisrahman)[cite: 1]
+<br/>
 
----
-[![](https://komarev.com/ghpvc/?username=jargis-rahman&icon=0&color=0)](https://visitcount.itsvg.in)[cite: 1]
+### About Me
+I am a passionate Web Developer with a strong focus on creating clean, intuitive, and responsive digital experiences. I love transforming complex ideas into simple, functional code.
 
-</div>
+* **Currently working on:** A modern tourism website.
+* **Currently exploring:** Next.js and advanced React architectures.
+* **Fun fact:** I love blending creative UI design with robust backend logic.
+
+<br/>
+
+### Skills & Technologies
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,figma&theme=dark" alt="My Skills" height="35" />
+  </a>
+</p>
+
+<br/>
+
+### GitHub Stats
+<p>
+  <img src="https://github-readme-stats.shion.dev/api?username=jargis-rahman&bg_color=0B0B33&title_color=ffffff&text_color=87CEEB&icon_color=87CEEB&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <br/><br/>
+  <img src="https://streak-stats.demolab.com/?user=jargis-rahman&background=0B0B33&stroke=87CEEB&ring=87CEEB&fire=87CEEB&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=87CEEB&sideLabels=87CEEB&dates=ffffff&hide_border=true" alt="GitHub Streak" />
+  <br/><br/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=jargis-rahman&bg_color=0B0B33&title_color=ffffff&text_color=87CEEB&hide_border=true&layout=compact" alt="Top Languages" />
+</p>
