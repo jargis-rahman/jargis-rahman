@@ -1,9 +1,6 @@
 <img src="https://raw.githubusercontent.com/jargis-rahman/Resources/refs/heads/main/resources/Github%20Banner-01.png" alt="Jargis Rahman Banner" width="100%" />
 
-<br/><br/>
-
 <h2>Hi, I'M 𝗝𝗔𝗥𝗚𝗜𝗦 𝗥𝗔𝗛𝗠𝗔𝗡</h2>
-
 
 <p>
   Rajshahi, Bangladesh &nbsp; | &nbsp; <a href="mailto:freelancerjargis@gmail.com">freelancerjargis@gmail.com</a>
