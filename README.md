@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/jargis-rahman/Resources/refs/heads/main/resources/Github%20Banner-01.png" alt="Jargis Rahman Banner" width="100%" />
+<img src="https://github.com/jargis-rahman/Resources/blob/main/resources/Github%20Banner-02.png?raw=true" alt="Jargis Rahman Banner" width="100%" />
 
 <h2>Hi, I'M 𝗝𝗔𝗥𝗚𝗜𝗦 𝗥𝗔𝗛𝗠𝗔𝗡</h2>
 
@@ -17,7 +17,7 @@
 ### About Me
 I am a passionate Web Developer with a strong focus on creating clean, intuitive, and responsive digital experiences. I love transforming complex ideas into simple, functional code.
 
-* **Currently working on:** A modern tourism website.
+* **Currently working on:** A modern technology website.
 * **Currently exploring:** Next.js and advanced React architectures.
 * **Fun fact:** I love blending creative UI design with robust backend logic.
 
